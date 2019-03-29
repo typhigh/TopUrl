@@ -8,7 +8,7 @@ import (
 )
 
 //Generator makes source data.If there is no data, we can use Generator().
-func Generator(i int) {
+func Generator(which int) {
 	num := [7]int{10, 100, 1000, 50000, 100000, 200000, 500000}
 	filename := "../" + DataSource + "/" + DataSource + ".txt"
 	os.Remove(filename)
@@ -18,7 +18,7 @@ func Generator(i int) {
 	if err != nil {
 		fmt.Printf(err.Error())
 	}
-	for j := 0; j < num[i]; j++ {
+	for j := 0; j < num[which]; j++ {
 		url := "https://www.pingcap.com/blog-cn/" + strconv.Itoa(j)
 		for k := 0; k < (int)(math.Sqrt(float64(j)))+1; k++ {
 			file.Write([]byte(url + "\n"))
