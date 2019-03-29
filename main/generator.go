@@ -11,6 +11,7 @@ import (
 func Generator(i int) {
 	num := [7]int{10, 100, 1000, 50000, 100000, 200000, 500000}
 	filename := "../" + DataSource + "/" + DataSource + ".txt"
+	os.Remove(filename)
 	file, err := os.OpenFile(filename, os.O_WRONLY|os.O_CREATE|os.O_APPEND, os.ModePerm)
 
 	defer file.Close()

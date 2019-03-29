@@ -5,264 +5,1189 @@ PreAlloc Worker 3 start run
 PreAlloc Worker 4 start run
 PreAlloc Worker 5 start run
 PreAlloc Worker 6 start run
-PreAlloc Worker 8 start run
 PreAlloc Worker 7 start run
-PreAlloc Worker 0 end
+PreAlloc Worker 8 start run
 PreAlloc Worker 9 start run
 PreAlloc Worker 10 start run
 PreAlloc Worker 11 start run
 PreAlloc Worker 12 start run
 PreAlloc Worker 13 start run
 PreAlloc Worker 14 start run
-PreAlloc Worker 1 end
 PreAlloc Worker 15 start run
-PreAlloc Worker 2 end
-PreAlloc Worker 0 start run
-PreAlloc Worker 1 start run
-PreAlloc Worker 2 start run
-PreAlloc Worker 10 end
-PreAlloc Worker 10 start run
-PreAlloc Worker 4 end
-PreAlloc Worker 4 start run
-PreAlloc Worker 8 end
-PreAlloc Worker 8 start run
-PreAlloc Worker 5 end
-PreAlloc Worker 5 start run
-PreAlloc Worker 6 end
-PreAlloc Worker 6 start run
-PreAlloc Worker 11 end
-PreAlloc Worker 11 start run
+PreAlloc Worker 16 start run
+PreAlloc Worker 17 start run
+PreAlloc Worker 18 start run
+PreAlloc Worker 19 start run
+PreAlloc Worker 20 start run
+PreAlloc Worker 21 start run
+PreAlloc Worker 22 start run
+PreAlloc Worker 23 start run
+PreAlloc Worker 24 start run
+PreAlloc Worker 25 start run
+PreAlloc Worker 26 start run
+PreAlloc Worker 27 start run
+PreAlloc Worker 28 start run
+PreAlloc Worker 29 start run
+PreAlloc Worker 30 start run
+PreAlloc Worker 31 start run
+PreAlloc Worker 32 start run
+PreAlloc Worker 33 start run
+PreAlloc Worker 34 start run
+PreAlloc Worker 35 start run
+PreAlloc Worker 36 start run
+PreAlloc Worker 37 start run
+PreAlloc Worker 38 start run
+PreAlloc Worker 39 start run
+PreAlloc Worker 40 start run
+PreAlloc Worker 41 start run
+PreAlloc Worker 42 start run
+PreAlloc Worker 43 start run
+PreAlloc Worker 44 start run
+PreAlloc Worker 45 start run
+PreAlloc Worker 46 start run
+PreAlloc Worker 47 start run
+PreAlloc Worker 48 start run
+PreAlloc Worker 49 start run
+PreAlloc Worker 50 start run
+PreAlloc Worker 51 start run
+PreAlloc Worker 52 start run
+PreAlloc Worker 53 start run
+PreAlloc Worker 54 start run
+PreAlloc Worker 55 start run
+PreAlloc Worker 56 start run
+PreAlloc Worker 57 start run
+PreAlloc Worker 58 start run
+PreAlloc Worker 59 start run
+PreAlloc Worker 60 start run
+PreAlloc Worker 61 start run
+PreAlloc Worker 62 start run
+PreAlloc Worker 63 start run
 PreAlloc Worker 3 end
 PreAlloc Worker 3 start run
-PreAlloc Worker 7 end
-PreAlloc Worker 7 start run
-PreAlloc Worker 9 end
-PreAlloc Worker 9 start run
-PreAlloc Worker 12 end
-PreAlloc Worker 12 start run
-PreAlloc Worker 13 end
-PreAlloc Worker 13 start run
-PreAlloc Worker 14 end
-PreAlloc Worker 14 start run
-PreAlloc Worker 0 end
-PreAlloc Worker 0 start run
+PreAlloc Worker 29 end
+PreAlloc Worker 29 start run
+PreAlloc Worker 21 end
+PreAlloc Worker 21 start run
+PreAlloc Worker 41 end
+PreAlloc Worker 41 start run
+PreAlloc Worker 46 end
+PreAlloc Worker 46 start run
+PreAlloc Worker 31 end
+PreAlloc Worker 31 start run
+PreAlloc Worker 63 end
+PreAlloc Worker 63 start run
+PreAlloc Worker 48 end
+PreAlloc Worker 48 start run
+PreAlloc Worker 45 end
+PreAlloc Worker 45 start run
+PreAlloc Worker 61 end
+PreAlloc Worker 61 start run
+PreAlloc Worker 50 end
+PreAlloc Worker 50 start run
+PreAlloc Worker 58 end
+PreAlloc Worker 58 start run
 PreAlloc Worker 15 end
 PreAlloc Worker 15 start run
-PreAlloc Worker 2 end
-PreAlloc Worker 2 start run
-PreAlloc Worker 1 end
-PreAlloc Worker 1 start run
-PreAlloc Worker 10 end
-PreAlloc Worker 10 start run
+PreAlloc Worker 57 end
+PreAlloc Worker 57 start run
+PreAlloc Worker 49 end
+PreAlloc Worker 49 start run
+PreAlloc Worker 59 end
+PreAlloc Worker 59 start run
 PreAlloc Worker 4 end
 PreAlloc Worker 4 start run
-PreAlloc Worker 4 end
-PreAlloc Worker 4 start run
-PreAlloc Worker 6 end
-PreAlloc Worker 6 start run
+PreAlloc Worker 53 end
+PreAlloc Worker 53 start run
+PreAlloc Worker 40 end
+PreAlloc Worker 40 start run
+PreAlloc Worker 19 end
+PreAlloc Worker 19 start run
 PreAlloc Worker 5 end
 PreAlloc Worker 5 start run
+PreAlloc Worker 34 end
+PreAlloc Worker 34 start run
+PreAlloc Worker 23 end
+PreAlloc Worker 23 start run
+PreAlloc Worker 25 end
+PreAlloc Worker 25 start run
+PreAlloc Worker 56 end
+PreAlloc Worker 56 start run
+PreAlloc Worker 0 end
+PreAlloc Worker 0 start run
+PreAlloc Worker 47 end
+PreAlloc Worker 47 start run
+PreAlloc Worker 37 end
+PreAlloc Worker 37 start run
+PreAlloc Worker 42 end
+PreAlloc Worker 42 start run
+PreAlloc Worker 11 end
+PreAlloc Worker 11 start run
+PreAlloc Worker 60 end
+PreAlloc Worker 60 start run
+PreAlloc Worker 13 end
+PreAlloc Worker 13 start run
+PreAlloc Worker 55 end
+PreAlloc Worker 55 start run
+PreAlloc Worker 33 end
+PreAlloc Worker 33 start run
+PreAlloc Worker 43 end
+PreAlloc Worker 43 start run
+PreAlloc Worker 30 end
+PreAlloc Worker 30 start run
+PreAlloc Worker 7 end
+PreAlloc Worker 7 start run
+PreAlloc Worker 44 end
+PreAlloc Worker 44 start run
+PreAlloc Worker 32 end
+PreAlloc Worker 32 start run
+PreAlloc Worker 29 end
+PreAlloc Worker 29 start run
+PreAlloc Worker 3 end
+PreAlloc Worker 3 start run
+PreAlloc Worker 28 end
+PreAlloc Worker 28 start run
+PreAlloc Worker 9 end
+PreAlloc Worker 9 start run
+PreAlloc Worker 52 end
+PreAlloc Worker 52 start run
+PreAlloc Worker 51 end
+PreAlloc Worker 51 start run
+PreAlloc Worker 41 end
+PreAlloc Worker 41 start run
+PreAlloc Worker 62 end
+PreAlloc Worker 62 start run
+PreAlloc Worker 39 end
+PreAlloc Worker 39 start run
+PreAlloc Worker 20 end
+PreAlloc Worker 20 start run
+PreAlloc Worker 17 end
+PreAlloc Worker 17 start run
+PreAlloc Worker 36 end
+PreAlloc Worker 36 start run
+PreAlloc Worker 18 end
+PreAlloc Worker 18 start run
+PreAlloc Worker 54 end
+PreAlloc Worker 54 start run
+PreAlloc Worker 26 end
+PreAlloc Worker 26 start run
+PreAlloc Worker 27 end
+PreAlloc Worker 27 start run
+PreAlloc Worker 46 end
+PreAlloc Worker 46 start run
+PreAlloc Worker 21 end
+PreAlloc Worker 21 start run
+PreAlloc Worker 2 end
+PreAlloc Worker 2 start run
+PreAlloc Worker 35 end
+PreAlloc Worker 35 start run
+PreAlloc Worker 22 end
+PreAlloc Worker 22 start run
+PreAlloc Worker 12 end
+PreAlloc Worker 12 start run
+PreAlloc Worker 48 end
+PreAlloc Worker 48 start run
+PreAlloc Worker 38 end
+PreAlloc Worker 38 start run
+PreAlloc Worker 50 end
+PreAlloc Worker 50 start run
+PreAlloc Worker 61 end
+PreAlloc Worker 61 start run
+PreAlloc Worker 58 end
+PreAlloc Worker 58 start run
+PreAlloc Worker 16 end
+PreAlloc Worker 16 start run
+PreAlloc Worker 10 end
+PreAlloc Worker 10 start run
+PreAlloc Worker 1 end
+PreAlloc Worker 1 start run
+PreAlloc Worker 24 end
+PreAlloc Worker 24 start run
+PreAlloc Worker 31 end
+PreAlloc Worker 31 start run
+PreAlloc Worker 40 end
+PreAlloc Worker 40 start run
+PreAlloc Worker 15 end
+PreAlloc Worker 15 start run
+PreAlloc Worker 6 end
+PreAlloc Worker 6 start run
 PreAlloc Worker 8 end
 PreAlloc Worker 8 start run
-PreAlloc Worker 11 end
-PreAlloc Worker 7 end
-PreAlloc Worker 3 end
-PreAlloc Worker 9 end
-PreAlloc Worker 12 end
-PreAlloc Worker 13 end
+PreAlloc Worker 63 end
+PreAlloc Worker 63 start run
 PreAlloc Worker 14 end
-PreAlloc Worker 0 end
-PreAlloc Worker 15 end
-PreAlloc Worker 2 end
-PreAlloc Worker 1 end
-PreAlloc Worker 10 end
+PreAlloc Worker 14 start run
+PreAlloc Worker 47 end
+PreAlloc Worker 47 start run
 PreAlloc Worker 4 end
-PreAlloc Worker 6 end
+PreAlloc Worker 4 start run
+PreAlloc Worker 45 end
+PreAlloc Worker 45 start run
+PreAlloc Worker 60 end
+PreAlloc Worker 60 start run
+PreAlloc Worker 37 end
+PreAlloc Worker 37 start run
+PreAlloc Worker 49 end
+PreAlloc Worker 49 start run
+PreAlloc Worker 59 end
+PreAlloc Worker 59 start run
+PreAlloc Worker 57 end
+PreAlloc Worker 57 start run
+PreAlloc Worker 25 end
+PreAlloc Worker 25 start run
+PreAlloc Worker 53 end
+PreAlloc Worker 53 start run
+PreAlloc Worker 19 end
+PreAlloc Worker 19 start run
+PreAlloc Worker 23 end
+PreAlloc Worker 23 start run
 PreAlloc Worker 5 end
+PreAlloc Worker 5 start run
+PreAlloc Worker 43 end
+PreAlloc Worker 43 start run
+PreAlloc Worker 55 end
+PreAlloc Worker 55 start run
+PreAlloc Worker 34 end
+PreAlloc Worker 34 start run
+PreAlloc Worker 33 end
+PreAlloc Worker 33 start run
+PreAlloc Worker 13 end
+PreAlloc Worker 13 start run
+PreAlloc Worker 56 end
+PreAlloc Worker 56 start run
+PreAlloc Worker 42 end
+PreAlloc Worker 42 start run
+PreAlloc Worker 11 end
+PreAlloc Worker 11 start run
+PreAlloc Worker 30 end
+PreAlloc Worker 30 start run
+PreAlloc Worker 0 end
+PreAlloc Worker 0 start run
+PreAlloc Worker 7 end
+PreAlloc Worker 7 start run
+PreAlloc Worker 46 end
+PreAlloc Worker 46 start run
+PreAlloc Worker 17 end
+PreAlloc Worker 17 start run
+PreAlloc Worker 52 end
+PreAlloc Worker 52 start run
+PreAlloc Worker 32 end
+PreAlloc Worker 32 start run
+PreAlloc Worker 29 end
+PreAlloc Worker 29 start run
+PreAlloc Worker 16 end
+PreAlloc Worker 16 start run
+PreAlloc Worker 28 end
+PreAlloc Worker 28 start run
+PreAlloc Worker 9 end
+PreAlloc Worker 9 start run
+PreAlloc Worker 44 end
+PreAlloc Worker 44 start run
+PreAlloc Worker 20 end
+PreAlloc Worker 20 start run
+PreAlloc Worker 18 end
+PreAlloc Worker 18 start run
+PreAlloc Worker 35 end
+PreAlloc Worker 35 start run
+PreAlloc Worker 51 end
+PreAlloc Worker 51 start run
 PreAlloc Worker 8 end
-Reduce Worker 0 start
-Reduce Worker 1 start
-Reduce Worker 0 have done bucket 9 end
-Reduce Worker 1 have done bucket 63 end
-Bucket 0 ok
-Reduce Worker 2 start
-Reduce Worker 3 start
-Reduce Worker 2 have done bucket 3 end
-Reduce Worker 3 have done bucket 10 end
-Bucket 1 ok
-Reduce Worker 4 start
-Reduce Worker 5 start
+PreAlloc Worker 8 start run
+PreAlloc Worker 26 end
+PreAlloc Worker 26 start run
+PreAlloc Worker 54 end
+PreAlloc Worker 54 start run
+PreAlloc Worker 62 end
+PreAlloc Worker 62 start run
+PreAlloc Worker 55 end
+PreAlloc Worker 55 start run
+PreAlloc Worker 4 end
+PreAlloc Worker 4 start run
+PreAlloc Worker 41 end
+PreAlloc Worker 41 start run
+PreAlloc Worker 36 end
+PreAlloc Worker 36 start run
+PreAlloc Worker 27 end
+PreAlloc Worker 27 start run
+PreAlloc Worker 3 end
+PreAlloc Worker 3 start run
+PreAlloc Worker 38 end
+PreAlloc Worker 38 start run
+PreAlloc Worker 22 end
+PreAlloc Worker 22 start run
+PreAlloc Worker 2 end
+PreAlloc Worker 2 start run
+PreAlloc Worker 14 end
+PreAlloc Worker 14 start run
+PreAlloc Worker 45 end
+PreAlloc Worker 45 start run
+PreAlloc Worker 50 end
+PreAlloc Worker 50 start run
+PreAlloc Worker 43 end
+PreAlloc Worker 43 start run
+PreAlloc Worker 63 end
+PreAlloc Worker 63 start run
+PreAlloc Worker 6 end
+PreAlloc Worker 6 start run
+PreAlloc Worker 47 end
+PreAlloc Worker 47 start run
+PreAlloc Worker 10 end
+PreAlloc Worker 10 start run
+PreAlloc Worker 24 end
+PreAlloc Worker 24 start run
+PreAlloc Worker 58 end
+PreAlloc Worker 58 start run
+PreAlloc Worker 1 end
+PreAlloc Worker 1 start run
+PreAlloc Worker 21 end
+PreAlloc Worker 21 start run
+PreAlloc Worker 60 end
+PreAlloc Worker 60 start run
+PreAlloc Worker 59 end
+PreAlloc Worker 59 start run
+PreAlloc Worker 7 end
+PreAlloc Worker 7 start run
+PreAlloc Worker 23 end
+PreAlloc Worker 23 start run
+PreAlloc Worker 53 end
+PreAlloc Worker 53 start run
+PreAlloc Worker 49 end
+PreAlloc Worker 49 start run
+PreAlloc Worker 39 end
+PreAlloc Worker 39 start run
+PreAlloc Worker 15 end
+PreAlloc Worker 15 start run
+PreAlloc Worker 5 end
+PreAlloc Worker 5 start run
+PreAlloc Worker 57 end
+PreAlloc Worker 12 end
+PreAlloc Worker 31 end
+PreAlloc Worker 48 end
+PreAlloc Worker 56 end
+PreAlloc Worker 30 end
+PreAlloc Worker 61 end
+PreAlloc Worker 32 end
+PreAlloc Worker 42 end
+PreAlloc Worker 16 end
+PreAlloc Worker 11 end
+PreAlloc Worker 0 end
+PreAlloc Worker 40 end
+PreAlloc Worker 37 end
+PreAlloc Worker 13 end
+PreAlloc Worker 8 end
+PreAlloc Worker 20 end
+PreAlloc Worker 25 end
+PreAlloc Worker 4 end
+PreAlloc Worker 29 end
+PreAlloc Worker 46 end
+PreAlloc Worker 33 end
+PreAlloc Worker 52 end
+PreAlloc Worker 19 end
+PreAlloc Worker 34 end
+PreAlloc Worker 26 end
+PreAlloc Worker 9 end
+PreAlloc Worker 18 end
+PreAlloc Worker 35 end
+PreAlloc Worker 28 end
+PreAlloc Worker 62 end
+PreAlloc Worker 44 end
+PreAlloc Worker 17 end
+PreAlloc Worker 55 end
+PreAlloc Worker 36 end
+PreAlloc Worker 14 end
+PreAlloc Worker 22 end
+PreAlloc Worker 2 end
+PreAlloc Worker 51 end
+PreAlloc Worker 50 end
+PreAlloc Worker 45 end
+PreAlloc Worker 3 end
+PreAlloc Worker 63 end
+PreAlloc Worker 27 end
+PreAlloc Worker 41 end
+PreAlloc Worker 54 end
+PreAlloc Worker 58 end
+PreAlloc Worker 10 end
+PreAlloc Worker 6 end
+PreAlloc Worker 43 end
+PreAlloc Worker 47 end
+PreAlloc Worker 21 end
+PreAlloc Worker 38 end
+PreAlloc Worker 60 end
+PreAlloc Worker 15 end
+PreAlloc Worker 7 end
+PreAlloc Worker 59 end
+PreAlloc Worker 1 end
+PreAlloc Worker 24 end
+PreAlloc Worker 23 end
+PreAlloc Worker 53 end
+PreAlloc Worker 5 end
+PreAlloc Worker 39 end
+PreAlloc Worker 49 end
+Reduce Worker 5 start bucket 160
+Reduce Worker 8 start bucket 129
+Reduce Worker 7 start bucket 193
+Reduce Worker 9 start bucket 0
+Reduce Worker 6 start bucket 128
+Reduce Worker 4 start bucket 192
+Reduce Worker 7 have done bucket 193 end
+Reduce Worker 10 start bucket 194
+Reduce Worker 11 start bucket 1
+Reduce Worker 7 start bucket 165
+Reduce Worker 0 start bucket 255
+Reduce Worker 8 have done bucket 129 end
+Reduce Worker 15 start bucket 164
+Reduce Worker 13 start bucket 162
+Reduce Worker 12 start bucket 161
+Reduce Worker 10 have done bucket 194 end
+Reduce Worker 14 start bucket 163
+Reduce Worker 1 start bucket 127
+Reduce Worker 3 start bucket 159
+Reduce Worker 2 start bucket 191
+Reduce Worker 9 have done bucket 0 end
+Reduce Worker 9 start bucket 132
+Reduce Worker 8 start bucket 130
+Reduce Worker 7 have done bucket 165 end
+Reduce Worker 7 start bucket 133
+Reduce Worker 11 have done bucket 1 end
+Reduce Worker 11 start bucket 134
+Reduce Worker 5 have done bucket 160 end
+Reduce Worker 5 start bucket 195
+Reduce Worker 13 have done bucket 162 end
+Reduce Worker 13 start bucket 135
+Reduce Worker 10 start bucket 131
+Reduce Worker 15 have done bucket 164 end
+Reduce Worker 15 start bucket 196
+Reduce Worker 9 have done bucket 132 end
+Reduce Worker 0 have done bucket 255 end
+Reduce Worker 0 start bucket 137
+Reduce Worker 6 have done bucket 128 end
+Reduce Worker 6 start bucket 138
+Reduce Worker 9 start bucket 136
+Reduce Worker 13 have done bucket 135 end
+Reduce Worker 13 start bucket 139
+Reduce Worker 12 have done bucket 161 end
+Reduce Worker 12 start bucket 140
+Reduce Worker 5 have done bucket 195 end
+Reduce Worker 5 start bucket 141
+Reduce Worker 11 have done bucket 134 end
+Reduce Worker 11 start bucket 142
+Reduce Worker 10 have done bucket 131 end
+Reduce Worker 10 start bucket 143
+Reduce Worker 7 have done bucket 133 end
+Reduce Worker 7 start bucket 144
+Reduce Worker 14 have done bucket 163 end
+Reduce Worker 14 start bucket 145
+Reduce Worker 1 have done bucket 127 end
+Reduce Worker 1 start bucket 146
+Reduce Worker 2 have done bucket 191 end
+Reduce Worker 2 start bucket 147
+Reduce Worker 15 have done bucket 196 end
+Reduce Worker 15 start bucket 148
+Reduce Worker 4 have done bucket 192 end
+Reduce Worker 4 start bucket 149
+Reduce Worker 0 have done bucket 137 end
+Reduce Worker 0 start bucket 150
+Reduce Worker 7 have done bucket 144 end
+Reduce Worker 7 start bucket 151
+Reduce Worker 8 have done bucket 130 end
+Reduce Worker 8 start bucket 152
+Reduce Worker 3 have done bucket 159 end
+Reduce Worker 3 start bucket 153
+Reduce Worker 6 have done bucket 138 end
+Reduce Worker 6 start bucket 154
+Reduce Worker 14 have done bucket 145 end
+Reduce Worker 14 start bucket 155
+Reduce Worker 9 have done bucket 136 end
+Reduce Worker 9 start bucket 156
+Reduce Worker 13 have done bucket 139 end
+Reduce Worker 13 start bucket 157
+Reduce Worker 5 have done bucket 141 end
+Reduce Worker 5 start bucket 158
+Reduce Worker 4 have done bucket 149 end
+Reduce Worker 4 start bucket 197
+Reduce Worker 11 have done bucket 142 end
+Reduce Worker 11 start bucket 198
+Reduce Worker 12 start bucket 199
+Reduce Worker 15 have done bucket 148 end
+Reduce Worker 15 start bucket 200
+Reduce Worker 12 have done bucket 140 end
+Reduce Worker 1 have done bucket 146 end
+Reduce Worker 1 start bucket 201
+Reduce Worker 8 start bucket 202
+Reduce Worker 8 have done bucket 152 end
+Reduce Worker 7 have done bucket 151 end
+Reduce Worker 7 start bucket 203
+Reduce Worker 3 have done bucket 153 end
+Reduce Worker 3 start bucket 204
+Reduce Worker 2 have done bucket 147 end
+Reduce Worker 2 start bucket 205
+Reduce Worker 9 have done bucket 156 end
+Reduce Worker 9 start bucket 206
+Reduce Worker 0 have done bucket 150 end
+Reduce Worker 0 start bucket 207
+Reduce Worker 11 have done bucket 198 end
+Reduce Worker 11 start bucket 208
+Reduce Worker 10 have done bucket 143 end
+Reduce Worker 10 start bucket 209
+Reduce Worker 4 have done bucket 197 end
+Reduce Worker 4 start bucket 210
+Reduce Worker 13 have done bucket 157 end
+Reduce Worker 13 start bucket 211
+Reduce Worker 12 have done bucket 199 end
+Reduce Worker 12 start bucket 212
+Reduce Worker 6 have done bucket 154 end
+Reduce Worker 6 start bucket 213
+Reduce Worker 2 have done bucket 205 end
+Reduce Worker 2 start bucket 214
+Reduce Worker 15 have done bucket 200 end
+Reduce Worker 15 start bucket 215
+Reduce Worker 1 have done bucket 201 end
+Reduce Worker 1 start bucket 216
+Reduce Worker 13 have done bucket 211 end
+Reduce Worker 13 start bucket 217
+Reduce Worker 9 start bucket 219
+Reduce Worker 11 have done bucket 208 end
+Reduce Worker 11 start bucket 220
+Reduce Worker 14 have done bucket 155 end
+Reduce Worker 9 have done bucket 206 end
+Reduce Worker 5 have done bucket 158 end
+Reduce Worker 10 have done bucket 209 end
+Reduce Worker 10 start bucket 222
+Reduce Worker 14 start bucket 221
+Reduce Worker 5 start bucket 218
+Reduce Worker 3 start bucket 223
+Reduce Worker 3 have done bucket 204 end
+Reduce Worker 12 have done bucket 212 end
+Reduce Worker 12 start bucket 224
+Reduce Worker 6 have done bucket 213 end
+Reduce Worker 6 start bucket 225
+Reduce Worker 8 have done bucket 202 end
+Reduce Worker 8 start bucket 226
+Reduce Worker 0 have done bucket 207 end
+Reduce Worker 0 start bucket 227
+Reduce Worker 1 have done bucket 216 end
+Reduce Worker 1 start bucket 228
+Reduce Worker 15 have done bucket 215 end
+Reduce Worker 15 start bucket 229
+Reduce Worker 10 have done bucket 222 end
+Reduce Worker 10 start bucket 230
+Reduce Worker 2 have done bucket 214 end
+Reduce Worker 2 start bucket 231
+Reduce Worker 11 have done bucket 220 end
+Reduce Worker 11 start bucket 232
+Reduce Worker 12 have done bucket 224 end
+Reduce Worker 12 start bucket 233
+Reduce Worker 13 have done bucket 217 end
+Reduce Worker 13 start bucket 234
+Reduce Worker 15 have done bucket 229 end
+Reduce Worker 15 start bucket 235
+Reduce Worker 5 have done bucket 218 end
+Reduce Worker 5 start bucket 236
+Reduce Worker 3 have done bucket 223 end
+Reduce Worker 3 start bucket 237
+Reduce Worker 7 have done bucket 203 end
+Reduce Worker 7 start bucket 238
+Reduce Worker 14 have done bucket 221 end
+Reduce Worker 14 start bucket 239
+Reduce Worker 2 have done bucket 231 end
+Reduce Worker 2 start bucket 240
+Reduce Worker 12 have done bucket 233 end
+Reduce Worker 9 have done bucket 219 end
+Reduce Worker 9 start bucket 242
+Reduce Worker 14 have done bucket 239 end
+Reduce Worker 14 start bucket 243
+Reduce Worker 9 have done bucket 242 end
+Reduce Worker 9 start bucket 244
+Reduce Worker 6 have done bucket 225 end
+Reduce Worker 6 start bucket 245
+Reduce Worker 0 have done bucket 227 end
+Reduce Worker 0 start bucket 246
+Reduce Worker 12 start bucket 241
+Reduce Worker 1 have done bucket 228 end
+Reduce Worker 1 start bucket 247
+Reduce Worker 13 have done bucket 234 end
+Reduce Worker 15 have done bucket 235 end
+Reduce Worker 15 start bucket 249
+Reduce Worker 12 have done bucket 241 end
+Reduce Worker 12 start bucket 250
+Reduce Worker 3 have done bucket 237 end
+Reduce Worker 3 start bucket 251
+Reduce Worker 10 have done bucket 230 end
+Reduce Worker 10 start bucket 252
+Reduce Worker 13 start bucket 248
+Reduce Worker 7 have done bucket 238 end
+Reduce Worker 4 have done bucket 210 end
+Reduce Worker 4 start bucket 254
+Reduce Worker 11 start bucket 166
+Reduce Worker 11 have done bucket 232 end
+Reduce Worker 7 start bucket 253
+Reduce Worker 9 have done bucket 244 end
+Reduce Worker 9 start bucket 167
+Reduce Worker 8 have done bucket 226 end
+Reduce Worker 8 start bucket 168
+Reduce Worker 5 have done bucket 236 end
+Reduce Worker 2 start bucket 169
+Reduce Worker 5 start bucket 170
+Reduce Worker 2 have done bucket 240 end
+Reduce Worker 1 have done bucket 247 end
+Reduce Worker 1 start bucket 172
+Reduce Worker 13 have done bucket 248 end
+Reduce Worker 13 start bucket 173
+Reduce Worker 14 have done bucket 243 end
+Reduce Worker 14 start bucket 171
+Reduce Worker 11 have done bucket 166 end
+Reduce Worker 11 start bucket 174
+Reduce Worker 4 have done bucket 254 end
+Reduce Worker 4 start bucket 175
+Reduce Worker 12 have done bucket 250 end
+Reduce Worker 12 start bucket 176
+Reduce Worker 8 have done bucket 168 end
+Reduce Worker 8 start bucket 177
+Reduce Worker 15 have done bucket 249 end
+Reduce Worker 15 start bucket 178
+Reduce Worker 9 have done bucket 167 end
+Reduce Worker 9 start bucket 179
+Reduce Worker 13 have done bucket 173 end
+Reduce Worker 13 start bucket 180
+Reduce Worker 6 have done bucket 245 end
+Reduce Worker 6 start bucket 181
+Reduce Worker 3 have done bucket 251 end
+Reduce Worker 3 start bucket 182
+Reduce Worker 12 have done bucket 176 end
+Reduce Worker 12 start bucket 183
+Reduce Worker 7 have done bucket 253 end
+Reduce Worker 7 start bucket 184
+Reduce Worker 10 have done bucket 252 end
+Reduce Worker 10 start bucket 185
+Reduce Worker 2 have done bucket 169 end
+Reduce Worker 2 start bucket 186
+Reduce Worker 1 have done bucket 172 end
+Reduce Worker 6 have done bucket 181 end
+Reduce Worker 6 start bucket 188
+Reduce Worker 15 have done bucket 178 end
+Reduce Worker 15 start bucket 189
+Reduce Worker 0 have done bucket 246 end
+Reduce Worker 0 start bucket 190
+Reduce Worker 8 have done bucket 177 end
+Reduce Worker 8 start bucket 2
+Reduce Worker 9 have done bucket 179 end
+Reduce Worker 9 start bucket 3
+Reduce Worker 4 have done bucket 175 end
+Reduce Worker 4 start bucket 4
+Reduce Worker 5 have done bucket 170 end
+Reduce Worker 5 start bucket 5
+Reduce Worker 2 have done bucket 186 end
+Reduce Worker 2 start bucket 6
+Reduce Worker 14 have done bucket 171 end
+Reduce Worker 14 start bucket 7
+Reduce Worker 1 start bucket 187
+Reduce Worker 13 have done bucket 180 end
+Reduce Worker 13 start bucket 8
+Reduce Worker 11 have done bucket 174 end
+Reduce Worker 11 start bucket 9
+Reduce Worker 6 have done bucket 188 end
+Reduce Worker 6 start bucket 10
+Reduce Worker 9 have done bucket 3 end
+Reduce Worker 9 start bucket 11
+Reduce Worker 15 have done bucket 189 end
+Reduce Worker 15 start bucket 12
+Reduce Worker 3 have done bucket 182 end
+Reduce Worker 3 start bucket 13
+Reduce Worker 10 have done bucket 185 end
+Reduce Worker 10 start bucket 14
+Reduce Worker 8 have done bucket 2 end
+Reduce Worker 8 start bucket 15
+Reduce Worker 13 have done bucket 8 end
+Reduce Worker 13 start bucket 16
+Reduce Worker 0 have done bucket 190 end
+Reduce Worker 0 start bucket 17
+Reduce Worker 7 have done bucket 184 end
+Reduce Worker 7 start bucket 18
+Reduce Worker 2 have done bucket 6 end
+Reduce Worker 2 start bucket 19
+Reduce Worker 11 have done bucket 9 end
+Reduce Worker 11 start bucket 20
 Reduce Worker 4 have done bucket 4 end
+Reduce Worker 4 start bucket 21
+Reduce Worker 3 have done bucket 13 end
+Reduce Worker 3 start bucket 22
+Reduce Worker 8 have done bucket 15 end
+Reduce Worker 8 start bucket 23
+Reduce Worker 1 start bucket 24
+Reduce Worker 1 have done bucket 187 end
+Reduce Worker 12 have done bucket 183 end
+Reduce Worker 12 start bucket 25
+Reduce Worker 14 have done bucket 7 end
+Reduce Worker 14 start bucket 26
+Reduce Worker 5 have done bucket 5 end
+Reduce Worker 5 start bucket 27
+Reduce Worker 10 have done bucket 14 end
+Reduce Worker 10 start bucket 28
+Reduce Worker 15 have done bucket 12 end
+Reduce Worker 15 start bucket 29
+Reduce Worker 6 have done bucket 10 end
+Reduce Worker 6 start bucket 30
+Reduce Worker 13 have done bucket 16 end
+Reduce Worker 13 start bucket 31
+Reduce Worker 14 have done bucket 26 end
+Reduce Worker 14 start bucket 32
+Reduce Worker 9 have done bucket 11 end
+Reduce Worker 9 start bucket 33
+Reduce Worker 1 have done bucket 24 end
+Reduce Worker 1 start bucket 34
+Reduce Worker 2 have done bucket 19 end
+Reduce Worker 2 start bucket 35
+Reduce Worker 5 have done bucket 27 end
+Reduce Worker 5 start bucket 36
+Reduce Worker 8 have done bucket 23 end
+Reduce Worker 8 start bucket 37
+Reduce Worker 11 have done bucket 20 end
+Reduce Worker 11 start bucket 38
+Reduce Worker 15 have done bucket 29 end
+Reduce Worker 15 start bucket 39
+Reduce Worker 9 have done bucket 33 end
+Reduce Worker 9 start bucket 40
+Reduce Worker 0 have done bucket 17 end
+Reduce Worker 0 start bucket 41
+Reduce Worker 7 have done bucket 18 end
+Reduce Worker 7 start bucket 42
+Reduce Worker 10 have done bucket 28 end
+Reduce Worker 10 start bucket 43
+Reduce Worker 3 have done bucket 22 end
+Reduce Worker 3 start bucket 44
+Reduce Worker 6 have done bucket 30 end
+Reduce Worker 6 start bucket 45
+Reduce Worker 4 have done bucket 21 end
+Reduce Worker 4 start bucket 46
+Reduce Worker 7 have done bucket 42 end
+Reduce Worker 7 start bucket 47
+Reduce Worker 13 have done bucket 31 end
+Reduce Worker 13 start bucket 48
+Reduce Worker 12 have done bucket 25 end
+Reduce Worker 12 start bucket 49
+Reduce Worker 0 have done bucket 41 end
+Reduce Worker 0 start bucket 50
+Reduce Worker 1 have done bucket 34 end
+Reduce Worker 1 start bucket 51
+Reduce Worker 10 have done bucket 43 end
+Reduce Worker 10 start bucket 52
+Reduce Worker 5 have done bucket 36 end
+Reduce Worker 5 start bucket 53
+Reduce Worker 14 have done bucket 32 end
+Reduce Worker 14 start bucket 54
+Reduce Worker 15 have done bucket 39 end
+Reduce Worker 15 start bucket 55
+Reduce Worker 6 have done bucket 45 end
+Reduce Worker 6 start bucket 56
+Reduce Worker 3 start bucket 57
+Reduce Worker 3 have done bucket 44 end
+Reduce Worker 9 have done bucket 40 end
+Reduce Worker 9 start bucket 58
+Reduce Worker 8 have done bucket 37 end
+Reduce Worker 15 have done bucket 55 end
+Reduce Worker 15 start bucket 60
+Reduce Worker 8 start bucket 59
+Reduce Worker 13 have done bucket 48 end
+Reduce Worker 13 start bucket 61
+Reduce Worker 9 have done bucket 58 end
+Reduce Worker 9 start bucket 62
+Reduce Worker 2 have done bucket 35 end
+Reduce Worker 2 start bucket 63
+Reduce Worker 11 have done bucket 38 end
+Reduce Worker 11 start bucket 64
+Reduce Worker 0 have done bucket 50 end
+Reduce Worker 12 have done bucket 49 end
+Reduce Worker 12 start bucket 66
+Reduce Worker 0 start bucket 65
+Reduce Worker 13 have done bucket 61 end
+Reduce Worker 13 start bucket 67
+Reduce Worker 4 have done bucket 46 end
+Reduce Worker 4 start bucket 68
+Reduce Worker 5 have done bucket 53 end
+Reduce Worker 5 start bucket 69
+Reduce Worker 3 have done bucket 57 end
+Reduce Worker 6 have done bucket 56 end
+Reduce Worker 6 start bucket 71
+Reduce Worker 14 have done bucket 54 end
+Reduce Worker 14 start bucket 72
+Reduce Worker 3 start bucket 70
+Reduce Worker 1 have done bucket 51 end
+Reduce Worker 1 start bucket 73
+Reduce Worker 5 have done bucket 69 end
+Reduce Worker 5 start bucket 74
+Reduce Worker 10 have done bucket 52 end
+Reduce Worker 10 start bucket 75
+Reduce Worker 0 have done bucket 65 end
+Reduce Worker 0 start bucket 76
+Reduce Worker 11 have done bucket 64 end
+Reduce Worker 11 start bucket 77
+Reduce Worker 4 have done bucket 68 end
+Reduce Worker 2 have done bucket 63 end
+Reduce Worker 2 start bucket 79
+Reduce Worker 7 have done bucket 47 end
+Reduce Worker 9 have done bucket 62 end
+Reduce Worker 9 start bucket 81
+Reduce Worker 7 start bucket 80
+Reduce Worker 15 have done bucket 60 end
+Reduce Worker 15 start bucket 82
+Reduce Worker 4 start bucket 78
+Reduce Worker 3 have done bucket 70 end
+Reduce Worker 3 start bucket 83
+Reduce Worker 6 have done bucket 71 end
+Reduce Worker 6 start bucket 84
+Reduce Worker 8 have done bucket 59 end
+Reduce Worker 8 start bucket 85
+Reduce Worker 14 have done bucket 72 end
+Reduce Worker 14 start bucket 86
+Reduce Worker 4 have done bucket 78 end
+Reduce Worker 4 start bucket 87
+Reduce Worker 6 have done bucket 84 end
+Reduce Worker 6 start bucket 88
+Reduce Worker 13 have done bucket 67 end
+Reduce Worker 13 start bucket 89
+Reduce Worker 10 have done bucket 75 end
+Reduce Worker 10 start bucket 90
+Reduce Worker 12 have done bucket 66 end
+Reduce Worker 12 start bucket 91
+Reduce Worker 5 have done bucket 74 end
+Reduce Worker 5 start bucket 92
+Reduce Worker 11 have done bucket 77 end
+Reduce Worker 11 start bucket 93
+Reduce Worker 3 have done bucket 83 end
+Reduce Worker 8 have done bucket 85 end
+Reduce Worker 8 start bucket 95
+Reduce Worker 9 have done bucket 81 end
+Reduce Worker 9 start bucket 96
+Reduce Worker 3 start bucket 94
+Reduce Worker 0 have done bucket 76 end
+Reduce Worker 0 start bucket 97
+Reduce Worker 15 have done bucket 82 end
+Reduce Worker 15 start bucket 98
+Reduce Worker 14 have done bucket 86 end
+Reduce Worker 14 start bucket 99
+Reduce Worker 1 have done bucket 73 end
+Reduce Worker 1 start bucket 100
+Reduce Worker 2 have done bucket 79 end
+Reduce Worker 2 start bucket 101
+Reduce Worker 12 have done bucket 91 end
+Reduce Worker 12 start bucket 102
+Reduce Worker 9 have done bucket 96 end
+Reduce Worker 9 start bucket 103
+Reduce Worker 0 have done bucket 97 end
+Reduce Worker 0 start bucket 104
+Reduce Worker 11 have done bucket 93 end
+Reduce Worker 11 start bucket 105
+Reduce Worker 10 have done bucket 90 end
+Reduce Worker 10 start bucket 106
+Reduce Worker 13 have done bucket 89 end
+Reduce Worker 13 start bucket 107
+Reduce Worker 6 have done bucket 88 end
+Reduce Worker 6 start bucket 108
+Reduce Worker 8 have done bucket 95 end
+Reduce Worker 8 start bucket 109
+Reduce Worker 5 have done bucket 92 end
+Reduce Worker 5 start bucket 110
+Reduce Worker 0 have done bucket 104 end
+Reduce Worker 0 start bucket 111
+Reduce Worker 12 have done bucket 102 end
+Reduce Worker 12 start bucket 112
+Reduce Worker 14 have done bucket 99 end
+Reduce Worker 14 start bucket 113
+Reduce Worker 15 have done bucket 98 end
+Reduce Worker 15 start bucket 115
+Reduce Worker 7 have done bucket 80 end
+Reduce Worker 7 start bucket 114
+Reduce Worker 4 have done bucket 87 end
+Reduce Worker 4 start bucket 116
+Reduce Worker 9 have done bucket 103 end
+Reduce Worker 9 start bucket 117
+Reduce Worker 8 have done bucket 109 end
+Reduce Worker 8 start bucket 118
+Reduce Worker 2 have done bucket 101 end
+Reduce Worker 2 start bucket 119
+Reduce Worker 10 have done bucket 106 end
+Reduce Worker 10 start bucket 120
+Reduce Worker 1 have done bucket 100 end
+Reduce Worker 1 start bucket 121
+Reduce Worker 3 have done bucket 94 end
+Reduce Worker 3 start bucket 122
+Reduce Worker 15 have done bucket 115 end
+Reduce Worker 15 start bucket 123
+Reduce Worker 11 have done bucket 105 end
+Reduce Worker 11 start bucket 124
+Reduce Worker 5 have done bucket 110 end
+Reduce Worker 5 start bucket 125
+Reduce Worker 6 have done bucket 108 end
+Reduce Worker 6 start bucket 126
+Reduce Worker 4 have done bucket 116 end
+Reduce Worker 13 have done bucket 107 end
+Reduce Worker 14 have done bucket 113 end
+Reduce Worker 8 have done bucket 118 end
+Reduce Worker 2 have done bucket 119 end
+Reduce Worker 0 have done bucket 111 end
+Reduce Worker 12 have done bucket 112 end
+Reduce Worker 7 have done bucket 114 end
+Reduce Worker 10 have done bucket 120 end
+Reduce Worker 5 have done bucket 125 end
+Reduce Worker 6 have done bucket 126 end
+Reduce Worker 9 have done bucket 117 end
+Reduce Worker 3 have done bucket 122 end
+Reduce Worker 1 have done bucket 121 end
+Reduce Worker 11 have done bucket 124 end
+Reduce Worker 15 have done bucket 123 end
+Bucket 0 ok
+Bucket 1 ok
 Bucket 2 ok
-Reduce Worker 6 start
-Reduce Worker 7 start
-Reduce Worker 6 have done bucket 12 end
 Bucket 3 ok
 Bucket 4 ok
 Bucket 5 ok
 Bucket 6 ok
 Bucket 7 ok
-Reduce Worker 1 start
-Reduce Worker 3 start
-Reduce Worker 1 have done bucket 7 end
 Bucket 8 ok
-Reduce Worker 4 start
-Reduce Worker 4 have done bucket 13 end
 Bucket 9 ok
-Reduce Worker 5 start
-Reduce Worker 5 have done bucket 14 end
 Bucket 10 ok
-Reduce Worker 6 start
-Reduce Worker 6 have done bucket 15 end
 Bucket 11 ok
-Reduce Worker 7 start
-Reduce Worker 7 have done bucket 16 end
 Bucket 12 ok
-Reduce Worker 1 start
-Reduce Worker 1 have done bucket 17 end
 Bucket 13 ok
-Reduce Worker 4 start
-Reduce Worker 4 have done bucket 18 end
 Bucket 14 ok
-Reduce Worker 5 start
-Reduce Worker 5 have done bucket 19 end
 Bucket 15 ok
-Reduce Worker 6 start
-Reduce Worker 6 have done bucket 20 end
 Bucket 16 ok
-Reduce Worker 7 start
-Reduce Worker 7 have done bucket 21 end
 Bucket 17 ok
-Reduce Worker 1 start
-Reduce Worker 1 have done bucket 22 end
 Bucket 18 ok
-Reduce Worker 4 start
-Reduce Worker 4 have done bucket 23 end
 Bucket 19 ok
-Reduce Worker 5 start
-Reduce Worker 5 have done bucket 24 end
 Bucket 20 ok
-Reduce Worker 6 start
-Reduce Worker 6 have done bucket 25 end
 Bucket 21 ok
-Reduce Worker 7 start
-Reduce Worker 7 have done bucket 26 end
 Bucket 22 ok
-Reduce Worker 1 start
-Reduce Worker 1 have done bucket 27 end
 Bucket 23 ok
-Reduce Worker 4 start
-Reduce Worker 5 start
-Reduce Worker 5 have done bucket 47 end
 Bucket 24 ok
-Reduce Worker 6 start
-Reduce Worker 6 have done bucket 29 end
 Bucket 25 ok
-Reduce Worker 7 start
-Reduce Worker 7 have done bucket 30 end
 Bucket 26 ok
-Reduce Worker 1 start
-Reduce Worker 1 have done bucket 31 end
 Bucket 27 ok
-Reduce Worker 5 start
-Reduce Worker 5 have done bucket 32 end
 Bucket 28 ok
-Reduce Worker 6 start
-Reduce Worker 6 have done bucket 33 end
 Bucket 29 ok
-Reduce Worker 7 start
-Reduce Worker 7 have done bucket 34 end
 Bucket 30 ok
-Reduce Worker 1 start
-Reduce Worker 1 have done bucket 35 end
 Bucket 31 ok
-Reduce Worker 5 start
-Reduce Worker 5 have done bucket 36 end
 Bucket 32 ok
-Reduce Worker 6 start
-Reduce Worker 6 have done bucket 37 end
 Bucket 33 ok
-Reduce Worker 7 start
-Reduce Worker 7 have done bucket 38 end
 Bucket 34 ok
-Reduce Worker 1 start
-Reduce Worker 1 have done bucket 39 end
 Bucket 35 ok
-Reduce Worker 5 start
-Reduce Worker 5 have done bucket 40 end
 Bucket 36 ok
-Reduce Worker 6 start
-Reduce Worker 6 have done bucket 41 end
 Bucket 37 ok
-Reduce Worker 7 start
-Reduce Worker 4 have done bucket 28 end
 Bucket 38 ok
-Reduce Worker 1 start
-Reduce Worker 1 have done bucket 48 end
 Bucket 39 ok
-Reduce Worker 5 start
-Reduce Worker 5 have done bucket 49 end
 Bucket 40 ok
-Reduce Worker 6 start
-Reduce Worker 6 have done bucket 50 end
 Bucket 41 ok
-Reduce Worker 4 start
-Reduce Worker 4 have done bucket 51 end
 Bucket 42 ok
-Reduce Worker 1 start
-Reduce Worker 5 start
-Reduce Worker 5 have done bucket 2 end
 Bucket 43 ok
-Reduce Worker 6 start
-Reduce Worker 6 have done bucket 1 end
 Bucket 44 ok
-Reduce Worker 4 start
-Reduce Worker 4 have done bucket 44 end
 Bucket 45 ok
-Reduce Worker 5 start
-Reduce Worker 5 have done bucket 43 end
 Bucket 46 ok
-Reduce Worker 6 start
-Reduce Worker 6 have done bucket 59 end
 Bucket 47 ok
-Reduce Worker 4 start
-Reduce Worker 5 start
-Reduce Worker 5 have done bucket 45 end
 Bucket 48 ok
-Reduce Worker 6 start
-Reduce Worker 6 have done bucket 46 end
 Bucket 49 ok
-Reduce Worker 1 have done bucket 52 end
 Bucket 50 ok
-Reduce Worker 5 start
-Reduce Worker 6 start
-Reduce Worker 6 have done bucket 56 end
 Bucket 51 ok
-Reduce Worker 1 start
-Reduce Worker 1 have done bucket 54 end
 Bucket 52 ok
-Reduce Worker 6 start
-Reduce Worker 6 have done bucket 55 end
 Bucket 53 ok
-Reduce Worker 7 have done bucket 5 end
-Reduce Worker 1 start
-Reduce Worker 1 have done bucket 61 end
 Bucket 54 ok
-Reduce Worker 6 start
-Reduce Worker 6 have done bucket 62 end
 Bucket 55 ok
-Reduce Worker 1 start
-Reduce Worker 1 have done bucket 57 end
 Bucket 56 ok
-Reduce Worker 6 start
-Reduce Worker 6 have done bucket 58 end
 Bucket 57 ok
-Reduce Worker 0 start
-Reduce Worker 0 have done bucket 6 end
 Bucket 58 ok
-Reduce Worker 5 have done bucket 11 end
-Reduce Worker 2 start
-Reduce Worker 2 have done bucket 8 end
 Bucket 59 ok
-Reduce Worker 5 have done bucket 60 end
-Reduce Worker 7 have done bucket 42 end
+Bucket 60 ok
+Bucket 61 ok
+Bucket 62 ok
+Bucket 63 ok
+Bucket 64 ok
+Bucket 65 ok
+Bucket 66 ok
+Bucket 67 ok
+Bucket 68 ok
+Bucket 69 ok
+Bucket 70 ok
+Bucket 71 ok
+Bucket 72 ok
+Bucket 73 ok
+Bucket 74 ok
+Bucket 75 ok
+Bucket 76 ok
+Bucket 77 ok
+Bucket 78 ok
+Bucket 79 ok
+Bucket 80 ok
+Bucket 81 ok
+Bucket 82 ok
+Bucket 83 ok
+Bucket 84 ok
+Bucket 85 ok
+Bucket 86 ok
+Bucket 87 ok
+Bucket 88 ok
+Bucket 89 ok
+Bucket 90 ok
+Bucket 91 ok
+Bucket 92 ok
+Bucket 93 ok
+Bucket 94 ok
+Bucket 95 ok
+Bucket 96 ok
+Bucket 97 ok
+Bucket 98 ok
+Bucket 99 ok
+Bucket 100 ok
+Bucket 101 ok
+Bucket 102 ok
+Bucket 103 ok
+Bucket 104 ok
+Bucket 105 ok
+Bucket 106 ok
+Bucket 107 ok
+Bucket 108 ok
+Bucket 109 ok
+Bucket 110 ok
+Bucket 111 ok
+Bucket 112 ok
+Bucket 113 ok
+Bucket 114 ok
+Bucket 115 ok
+Bucket 116 ok
+Bucket 117 ok
+Bucket 118 ok
+Bucket 119 ok
+Bucket 120 ok
+Bucket 121 ok
+Bucket 122 ok
+Bucket 123 ok
+Bucket 124 ok
+Bucket 125 ok
+Bucket 126 ok
+Bucket 127 ok
+Bucket 128 ok
+Bucket 129 ok
+Bucket 130 ok
+Bucket 131 ok
+Bucket 132 ok
+Bucket 133 ok
+Bucket 134 ok
+Bucket 135 ok
+Bucket 136 ok
+Bucket 137 ok
+Bucket 138 ok
+Bucket 139 ok
+Bucket 140 ok
+Bucket 141 ok
+Bucket 142 ok
+Bucket 143 ok
+Bucket 144 ok
+Bucket 145 ok
+Bucket 146 ok
+Bucket 147 ok
+Bucket 148 ok
+Bucket 149 ok
+Bucket 150 ok
+Bucket 151 ok
+Bucket 152 ok
+Bucket 153 ok
+Bucket 154 ok
+Bucket 155 ok
+Bucket 156 ok
+Bucket 157 ok
+Bucket 158 ok
+Bucket 159 ok
+Bucket 160 ok
+Bucket 161 ok
+Bucket 162 ok
+Bucket 163 ok
+Bucket 164 ok
+Bucket 165 ok
+Bucket 166 ok
+Bucket 167 ok
+Bucket 168 ok
+Bucket 169 ok
+Bucket 170 ok
+Bucket 171 ok
+Bucket 172 ok
+Bucket 173 ok
+Bucket 174 ok
+Bucket 175 ok
+Bucket 176 ok
+Bucket 177 ok
+Bucket 178 ok
+Bucket 179 ok
+Bucket 180 ok
+Bucket 181 ok
+Bucket 182 ok
+Bucket 183 ok
+Bucket 184 ok
+Bucket 185 ok
+Bucket 186 ok
+Bucket 187 ok
+Bucket 188 ok
+Bucket 189 ok
+Bucket 190 ok
+Bucket 191 ok
+Bucket 192 ok
+Bucket 193 ok
+Bucket 194 ok
+Bucket 195 ok
+Bucket 196 ok
+Bucket 197 ok
+Bucket 198 ok
+Bucket 199 ok
+Bucket 200 ok
+Bucket 201 ok
+Bucket 202 ok
+Bucket 203 ok
+Bucket 204 ok
+Bucket 205 ok
+Bucket 206 ok
+Bucket 207 ok
+Bucket 208 ok
+Bucket 209 ok
+Bucket 210 ok
+Bucket 211 ok
+Bucket 212 ok
+Bucket 213 ok
+Bucket 214 ok
+Bucket 215 ok
+Bucket 216 ok
+Bucket 217 ok
+Bucket 218 ok
+Bucket 219 ok
+Bucket 220 ok
+Bucket 221 ok
+Bucket 222 ok
+Bucket 223 ok
+Bucket 224 ok
+Bucket 225 ok
+Bucket 226 ok
+Bucket 227 ok
+Bucket 228 ok
+Bucket 229 ok
+Bucket 230 ok
+Bucket 231 ok
+Bucket 232 ok
+Bucket 233 ok
+Bucket 234 ok
+Bucket 235 ok
+Bucket 236 ok
+Bucket 237 ok
+Bucket 238 ok
+Bucket 239 ok
+Bucket 240 ok
+Bucket 241 ok
+Bucket 242 ok
+Bucket 243 ok
+Bucket 244 ok
+Bucket 245 ok
+Bucket 246 ok
+Bucket 247 ok
+Bucket 248 ok
+Bucket 249 ok
+Bucket 250 ok
+Bucket 251 ok
+Bucket 252 ok
+Bucket 253 ok
+Bucket 254 ok
+Bucket 255 ok
+42.017945026s

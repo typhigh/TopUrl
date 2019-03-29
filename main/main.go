@@ -8,6 +8,7 @@ import (
 	"io"
 	"io/ioutil"
 	"os"
+	"os/exec"
 	"strconv"
 	"sync"
 	"time"
@@ -18,6 +19,8 @@ const (
 	DataSource = string("DataSource")
 	//DataResultTo is the data result file's  name
 	DataResultTo = string("DataResult.txt")
+	//SplitSH is the path of a shell script which split the big source txt
+	SplitSH = string("./init.sh")
 	//BatchLines is the number of line per batch
 	BatchLines = 100000
 	//Buckets is the MOD number ,or bucket number
@@ -217,7 +220,9 @@ func preAlloc(filePath string, allocCh chan int, wg *sync.WaitGroup) {
 // build some neccessary directory and files
 func buildDir() {
 	dir := "../tmp"
+	//remove old result
 	os.Remove(DataResultTo)
+	//remove old temporary data
 	if err := os.RemoveAll(dir); err != nil {
 		fmt.Printf(err.Error())
 	}
@@ -232,8 +237,16 @@ func buildDir() {
 }
 
 func main() {
-	//Generator(4)
-
+	//If we have no input data we can make it
+	Generator(4)
+	//If the input data is not splited, we can use the splite shell
+	cmd := exec.Command("/bin/bash", "-c", SplitSH)
+	err := cmd.Run()
+	if err != nil {
+		fmt.Printf(err.Error())
+		return
+	}
+	//Now it's time to deal with split files
 	timeStart := time.Now()
 	buildDir()
 	read()
